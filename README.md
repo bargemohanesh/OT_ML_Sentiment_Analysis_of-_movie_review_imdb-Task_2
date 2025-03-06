@@ -8,7 +8,7 @@ This project performs sentiment analysis on IMDB movie reviews using machine lea
 
 Dataset
 
-Source: IMDB 50K Movie Reviews Dataset
+Source: IMDB 50K Movie Reviews Dataset (kaggle)
 
 Columns:
 
